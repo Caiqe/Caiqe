@@ -4,7 +4,7 @@
 #### Entusiasta de Técnologia - Desenvolvedor Java FullStack Junior
 
 
-- ⚙️ Competências : `Java`, `SQL`, `Spring`, `C++`, `Arduino`
+- ⚙️ Tecnologias : `Java`, `SQL`, `Spring`, `C++`, `Arduino`
 - 🌍 Localidade : São Bernardo do Campo - São Paulo
 - 🎓 Formação : Téc. Informática - Colégio Engenheiro Salvador Arena
 
