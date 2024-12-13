@@ -6,7 +6,7 @@
     <strong>Olá, Mundo!</strong> <br>
     Meu nome é <strong>Caique Gomes</strong>, meus hobbies são: <strong>Trilhas, Filmes, Música</strong> e claro <strong>Tecnologia</strong>. 
     Sou <strong>Desenvolvedor Fullstack Java Junior</strong>, atualmente cursando Técnico em informática.<br> 
-    Um pouco mais sobre mim:
+    <strong>Um pouco mais sobre mim:</strong>
 </p>
 
 <p align="left">
@@ -18,16 +18,13 @@
 </p>
 
 <p align="left">
-  💌 <strong>Bora conversar! me manda uma mensagem:</strong> ⤵️
-</p>
+  💌 <strong>Bora conversar! me mande uma mensagem:</strong> ⤵️ 
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=cttcaiquegomes@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cttcaiquegomes/" alt="LinkedIn"/></a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cttcaiquegomes/)](https://www.linkedin.com/in/cttcaiquegomes/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cttcaiquegomes@gmail)](mailto:cttcaiquegomesgmail)
 
+</p>
+<br>
 <center>
 <table>
     <tr>
