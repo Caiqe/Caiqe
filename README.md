@@ -1,11 +1,11 @@
-![Capa GitHub](https://i.imgur.com/x0bY6bb.png)
+![Capa GitHub](https://i.imgur.com/CUUg0J5.png)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
     <strong>Olá, Mundo!</strong> <br>
     Meu nome é <strong>Caique Gomes</strong>, meus hobbies são: <strong>Trilhas, Filmes, Música</strong> e claro <strong>Tecnologia</strong>. 
-    Atualmente cursando Técnico em informática e sou <strong>Desenvolvedor Fullstack Java Junior</strong>.<br>
+    Sou <strong>Desenvolvedor Fullstack Java Junior</strong>, atualmente cursando Técnico em informática.<br> 
     Um pouco mais sobre mim:
 </p>
 
