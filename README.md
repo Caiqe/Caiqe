@@ -1,18 +1,42 @@
-### Olá mundo! Bem Vindo ao meu GitHub👋
+![Capa GitHub](https://i.imgur.com/x0bY6bb.png)
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-#### Entusiasta de Técnologia - Desenvolvedor Java FullStack Junior
+<p align="left"> 
+    <strong>Olá, Mundo!</strong> <br>
+    Meu nome é <strong>Caique Gomes</strong>, meus hobbies são: <strong>Trilhas, Filmes, Música</strong> e claro <strong>Tecnologia</strong>. 
+    Atualmente cursando Técnico em informática e sou <strong>Desenvolvedor Fullstack Java Junior</strong>.<br>
+    Um pouco mais sobre mim:
+</p>
 
+<p align="left">
+  🧑🏻‍💻 Tecnologias: <strong>Java, Spring Boot, SQL, Git</strong>
+</p>
 
-- ⚙️ Tecnologias : `Java`, `SQL`, `Spring`, `C++`, `Arduino`
-- 🌍 Localidade : São Bernardo do Campo - São Paulo
-- 🎓 Formação : Téc. Informática - Colégio Engenheiro Salvador Arena
+<p align="left">
+  💼 Ferramentas: <strong>Trello, Jira, MySQL, Eclipse, Insomnia</strong>
+</p>
 
+<p align="left">
+  💌 <strong>Bora conversar! me manda uma mensagem:</strong> ⤵️
+</p>
 
-#### Contato :
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=cttcaiquegomes@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cttcaiquegomes/" alt="LinkedIn"/></a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Caique_Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cttcaiquegomes/)](https://www.linkedin.com/in/cttcaiquegomes/)
-[![Gmail Badge](https://img.shields.io/badge/-cttcaiquegomes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cttcaiquegomes@gmail)](mailto:cttcaiquegomesgmail)
+<center>
+<table>
+    <tr>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Caiqe&theme=tokyonight"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiqe&hide=html&layout=compact&theme=tokyonight" /></td>
+    </tr>   
+</table>
+</center> 
+
 
 
   
