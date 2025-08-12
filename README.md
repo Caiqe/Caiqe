@@ -5,7 +5,7 @@
 <p align="left"> 
     <strong>Olá, Mundo!</strong> <br>
     Meu nome é <strong>Caique Gomes</strong>, meus hobbies são: <strong>Trilhas 🥾, Filmes 🎬, Música 🎵</strong> e claro <strong>Tecnologia 👩🏻‍💻</strong>. 
-    Sou <strong>Desenvolvedor Fullstack Java Junior</strong>, atualmente cursando Técnico em informática.<br> 
+    Sou <strong>Desenvolvedor Java</strong>, formado como Técnico em informática e atualmente cursando ADS na faculdade <strong>SPtech</strong>.<br> 
     <strong>Um pouco mais sobre mim:</strong>
 </p>
 
